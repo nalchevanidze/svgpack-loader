@@ -1,0 +1,15 @@
+{
+  "name": "svgpack-loader",
+  "version": "0.0.5",
+  "description": "Webpack SVG Loader folders,librarys and ... For Javascript Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "David Nalchevanidze"
+  },
+  "dependencies": {
+    "svg-json-parser": "*"
+  }
+}
